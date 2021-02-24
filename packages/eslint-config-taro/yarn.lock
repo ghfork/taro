@@ -397,8 +397,8 @@ tsutils@^3.17.1:
     tslib "^1.8.1"
 
 typescript@^4.1.0:
-  version "4.1.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.5.tgz#123a3b214aaff3be32926f0d8f1f6e704eb89a72"
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.2.tgz#1450f020618f872db0ea17317d16d8da8ddb8c4c"
 
 yallist@^4.0.0:
   version "4.0.0"
